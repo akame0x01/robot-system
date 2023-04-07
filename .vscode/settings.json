@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\moraes\\Desktop\\Projects\\challenge-one-alura-hotel-br-repositorio-base\\Jars\\c3p0-0.9.5.5.jar",
+        "c:\\Users\\moraes\\Desktop\\Projects\\challenge-one-alura-hotel-br-repositorio-base\\Jars\\mchange-commons-java-0.2.19.jar",
+        "c:\\Users\\moraes\\Desktop\\Projects\\challenge-one-alura-hotel-br-repositorio-base\\Jars\\mysql-connector-java-8.0.17.jar"
+    ]
+}
